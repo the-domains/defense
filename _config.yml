@@ -1,0 +1,28 @@
+name: defense
+favicon: null
+layout_spectrum: 0.5788270733319223
+typography_spectrum: 0.48681487957946956
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1839323164895177
+  lightness: 0.3817982249893248
+  saturation: 0.7272067393641919
+  rhythmicContrast: 0.5817821817472577
+purpose: []
